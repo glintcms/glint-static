@@ -1,6 +1,6 @@
 {
   "name": "glint-static",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "buid tool to link/copy each modules public folder into the public folder of the app.",
   "main": "index.js",
   "scripts": {
